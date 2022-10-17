@@ -1,5 +1,5 @@
 # admin-dashboard
-Admin dashboard
+
 This is an Intermediate HTML and CSS Project: Admin Dashboard from Odin: https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard
 
 ## The goal is to replicate this:
